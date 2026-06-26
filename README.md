@@ -18,7 +18,23 @@
 
 ---
 
-## 🚀 Projects
+## 💼 Experience
+
+**Software Engineer — Data Engineering** · Airtel India | Oct 2021 – Feb 2024
+- Engineered TB-scale ETL/ELT pipelines in Python & PySpark from Kafka (CDC), MySQL, PostgreSQL & REST APIs into BigQuery, Redshift & Snowflake
+- Built Spark Structured Streaming jobs for real-time Kafka topic processing into Delta Lake
+- Architected Medallion Architecture (Bronze/Silver/Gold) across Azure Synapse, Azure Data Lake Gen2, Snowflake & BigQuery
+- Achieved 60–70% query scan cost reduction via partitioning, clustering & Z-ordering
+- Enforced data quality using dbt & Great Expectations integrated into Airflow DAG dependencies
+- Built Grafana dashboards + PagerDuty alerting; participated in on-call incident response
+
+**Graduate Teaching Assistant** · Cleveland State University | Jan 2026 – May 2026
+- Led weekly SQL & Python lab sessions for 50+ students covering query optimization and real-world data engineering workflows
+- Held office hours diagnosing SQL and Python logic errors; collaborated with professor to improve overall class performance
+
+---
+
+
 
 | Project | Description | Stack |
 |---|---|---|
